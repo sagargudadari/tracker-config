@@ -1,2 +1,0 @@
-# tracker-config
-tracker-config
